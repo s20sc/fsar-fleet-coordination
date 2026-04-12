@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+evaluation_results.*
+scaling_results.json
