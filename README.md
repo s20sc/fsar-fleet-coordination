@@ -3,10 +3,7 @@
 Simulation code for the paper:
 
 > Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li. "Federated Single-Agent Robotics: Fleet Coordination Under Governed Autonomy." 2026.
-
-> **Looking for the full production runtime?** See [aeros-runtime](https://github.com/s20sc/aeros-runtime) — the complete implementation with governance engine, evolution engine, fleet coordination, benchmarking, provider SDK, and marketplace.
-
-**Project Page**: https://s20sc.github.io/aeros-project
+> arXiv: [2604.11028](https://arxiv.org/abs/2604.11028)
 
 ## Overview
 
