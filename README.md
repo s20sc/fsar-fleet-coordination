@@ -1,8 +1,8 @@
-# Federated Single-Agent Robotics: Fleet Coordination Under Governed Autonomy
+# Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation
 
 Simulation code for the paper:
 
-> Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li. "Federated Single-Agent Robotics: Fleet Coordination Under Governed Autonomy." 2026.
+> Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li. "Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation." 2026.
 > arXiv: [2604.11028](https://arxiv.org/abs/2604.11028)
 
 ## Overview
@@ -69,7 +69,7 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for detai
 
 ```bibtex
 @article{qin2026fsar,
-  title={Federated Single-Agent Robotics: Fleet Coordination Under Governed Autonomy},
+  title={Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation},
   author={Qin, Xue and Luan, Simin and See, John and Yang, Cong and Li, Zhijun},
   journal={arXiv preprint arXiv:2604.11028},
   year={2026}
