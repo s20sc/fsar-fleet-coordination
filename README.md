@@ -71,6 +71,7 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for detai
 @article{qin2026fsar,
   title={Federated Single-Agent Robotics: Fleet Coordination Under Governed Autonomy},
   author={Qin, Xue and Luan, Simin and See, John and Yang, Cong and Li, Zhijun},
+  journal={arXiv preprint arXiv:2604.11028},
   year={2026}
 }
 ```
